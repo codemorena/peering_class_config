@@ -1,6 +1,7 @@
 # peering_class_config
 
 ##Classes
+
 collect_as_paths
 modules:
   aspathentries  
